@@ -1,8 +1,6 @@
 import pyfiglet
 from pyfiglet import figlet_format
 
-shell=True
-
 print(figlet_format("NHIOLC", font="big"))
 result = pyfiglet.figlet_format("Script created by NHIOLC", font="digital")
 print(result)
